@@ -34,10 +34,6 @@
 
 - marta.gomez@thebridgeschool.es
 
-**Teacher Assistant**: *Juan Alejandro Maniglia*
-
-- juan.maniglia@thebridgeschool.es
-
 **Lead Instructor**: *Miguel Ángel Nievas Fuertes*
 
 - miguel.nievas@thebridgeschool.es
